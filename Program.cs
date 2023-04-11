@@ -1,3 +1,6 @@
+using Microsoft.Graph;
+using Microsoft.Graph.Models;
+
 namespace ContosoUniversityy
 {
     public class Program

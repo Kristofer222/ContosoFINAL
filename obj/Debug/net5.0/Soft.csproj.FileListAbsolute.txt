@@ -1,0 +1,8 @@
+C:\Users\saali\source\repos\ContosoFINAL\obj\Debug\net5.0\Soft.csproj.AssemblyReference.cache
+C:\Users\saali\source\repos\ContosoFINAL\obj\Debug\net5.0\Soft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saali\source\repos\ContosoFINAL\obj\Debug\net5.0\Soft.AssemblyInfoInputs.cache
+C:\Users\saali\source\repos\ContosoFINAL\obj\Debug\net5.0\Soft.AssemblyInfo.cs
+C:\Users\saali\source\repos\ContosoFINAL\obj\Debug\net5.0\Soft.csproj.CoreCompileInputs.cache
+C:\Users\saali\source\repos\ContosoFINAL\obj\Debug\net5.0\Soft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saali\source\repos\ContosoFINAL\obj\Debug\net5.0\Soft.RazorAssemblyInfo.cache
+C:\Users\saali\source\repos\ContosoFINAL\obj\Debug\net5.0\Soft.RazorAssemblyInfo.cs
